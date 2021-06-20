@@ -5,7 +5,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=CHKIM)](https://codeforces.com/profile/CHKIM)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ckdhyeon95)](https://solved.ac/ckdhyeon95)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ckdhyeon95)](https://solved.ac/ckdhyeon95)
 <!--
 **github-changhyeon/github-changhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
