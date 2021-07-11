@@ -1,5 +1,5 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=github-changhyeon&count_private=true)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=github-changhyeon&count_private=true)
 
 
 🔴 **코드포스**
