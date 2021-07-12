@@ -1,10 +1,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=github-changhyeon&count_private=true)
-<h3 align="center"> :star: </h3>
 
 🔴 **코드포스**
 
-[![CodeForces Profile](https://cf.leed.at?id=CHKIM)](https://codeforces.com/profile/CHKIM)
+<div align="center"> [![CodeForces Profile](https://cf.leed.at?id=CHKIM)](https://codeforces.com/profile/CHKIM) </div>
 
 
 🔵 **백준**
