@@ -37,7 +37,7 @@
 
 <div align="center">
     <a href="https://solved.ac/ckdhyeon95">
-		<img src="http://mazassumnida.wtf/api/generate_badge?boj=ckdhyeon95"/>
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdhyeon95"/>
 	</a>
 	<a href="https://codeforces.com/profile/CHKIM">
 		<img src="https://cf.leed.at?id=CHKIM"/>
