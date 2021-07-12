@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Kim%20Changhyeon&fontSize=90)
 
-<h2 align="center"> :wave: <b>Hi there,</b> </h2>
+<h3 align="center"> :wave: <b>Hi there,</b> </h3>
 
 <h3 align="center">프론트엔드 개발에 관심이 있는 김창현입니다.</h3>
 
 <p align="center"> :mortar_board: 경북대학교 전자공학 학사 (2014.03 ~ 2020.02) </p>
 
-<p align="center"> :computer: SSAFY(삼성 청년 소프트웨어 아카데미) 4기 (2020.07 ~ 2020.06)</p>
+<p align="center"> :computer: SSAFY(삼성 청년 소프트웨어 아카데미) 4기 (2020.07 ~ 2021.06)</p>
 
 
 
-<h2 align="center"> :hammer: <b>Tech Stack</b> :wrench: </h2>
+<h3 align="center"> :hammer: <b>Tech Stack</b> :wrench: </h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
