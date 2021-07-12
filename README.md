@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>&nbsp 
 </p>
 
-</br>
-
-<h3 align="center"> :octocat: Github Stats </h3>
-
-<div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-changhyeon&show_icons=true&count_private=true"/>
-</div>
-
 <br/>
 
 <h3 align="center"> :computer: Algorithm </h3>
@@ -52,3 +44,11 @@
 	</a>
 </div>
 
+
+</br>
+
+<h3 align="center"> :octocat: Github Stats </h3>
+
+<div align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github-changhyeon&show_icons=true&count_private=true"/>
+</div>
