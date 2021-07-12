@@ -1,8 +1,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=github-changhyeon&count_private=true)
-
-<center>:star:</center>
-
+<h3 align="center"> :star: </h3>
 
 🔴 **코드포스**
 
