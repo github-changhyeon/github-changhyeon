@@ -1,31 +1,38 @@
-<div align=center> 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=github-changhyeon&count_private=true)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Kim%20Changhyeon&fontSize=90)
+
+<h3 align="center"> :wave: <b>Hi there,</b> </h3>
+
+<h5 align="center">프론트엔드 개발에 관심이 있는 김창현입니다.</h5>
+
+<p align="center"> :mortar_board: 경북대학교 전자공학 학사 (2014.03 ~ 2020.02) </p>
+
+<p align="center"> :computer: SSAFY(삼성 청년 소프트웨어 아카데미) 4기 (2020.07 ~ 2020.06)</p>
+
+
+
+<h3 align="center"> :hammer: <b>Tech Stack</b> :wrench: </h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=Material UI&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp 
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>&nbsp 
+</p>
+
+
+
+<div align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github-changhyeon&show_icons=true&count_private=true"/>
 </div>
-🔴 **코드포스**
 
-<div align="center"> 
-  [![CodeForces Profile](https://cf.leed.at?id=CHKIM)](https://codeforces.com/profile/CHKIM) 
-</div>
-
-
-🔵 **백준**
-<div align="center"> 
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ckdhyeon95)](https://solved.ac/ckdhyeon95)
-</div>
-<div align=center> 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
-</div>
-<!--
-**github-changhyeon/github-changhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
