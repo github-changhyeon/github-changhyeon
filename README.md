@@ -8,6 +8,8 @@
 
 <p align="center"> :mortar_board: SSAFY(삼성 청년 소프트웨어 아카데미) 4기 (2020.07 ~ 2021.06)</p>
 
+<p align="center"> :mortar_board: 네이버 부스트캠프 6기 챌린지 과정 (2021.07 ~ 진행중)</p>
+
 <br/>
 
 <h3 align="center"> :hammer: Tech Stack </h3>
@@ -17,7 +19,7 @@
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=Material UI&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=MaterialUI&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp 
 </p>
